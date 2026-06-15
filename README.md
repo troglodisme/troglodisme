@@ -1,7 +1,7 @@
 ### Giulio Ammendola
  
-Creative technologist working at the seam between physical interfaces and augmented, computational systems. I build things that ask how we touch, sense, and inhabit increasingly digital environments.
- 
+I am a product & interaction designer with experience across industrial design, electronics and software — often all the way to manufacture. I've founded companies, led teams and soldered my own circuits — usually on the same project.
+
 🛠  Currently working on ambient and physical computing at [ambient-works](https://github.com/ambient-works)
 🔭  Interested in tangible interaction, ambient intelligence, and creative coding
 🌐  Portfolio → [your-portfolio-url]
