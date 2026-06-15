@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**troglodisme/troglodisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Giulio Ammendola
+ 
+Creative technologist working at the seam between physical interfaces and augmented, computational systems. I build things that ask how we touch, sense, and inhabit increasingly digital environments.
+ 
+🛠  Currently working on ambient and physical computing at [ambient-works](https://github.com/ambient-works)
+🔭  Interested in tangible interaction, ambient intelligence, and creative coding
+🌐  Portfolio → [your-portfolio-url]
+📫  giulio.ammendola@network.rca.ac.uk
+ 
+**Tools I reach for:** Swift · C# / Unity · three.js · p5.js · WebMIDI · embedded / firmware
